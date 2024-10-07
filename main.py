@@ -1,5 +1,5 @@
-import google.generativeai as genai
 import os
+import google.generativeai as genai
 from gtts import gTTS
 from playsound import playsound
 
